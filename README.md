@@ -10,7 +10,7 @@ git clone https://github.com/xet7/kayttajat
 cd kayttajat
 ```
 
-## 2. Lisää käyttäjimet alekkain tiedostoon lista.txt esim. nano ohjelmalla
+## 2. Lisää käyttäjien nimet alekkain tiedostoon lista.txt esim. nano ohjelmalla
 
 Muokkaus:
 ```
